@@ -274,3 +274,27 @@ p {
     color: #9DA3A3
 }
 /* #apne(a134c81d1789badbc) #css ends  */
+
+/* #afurn(a2a629a4aa864d956) #css starts  */
+.abouta2a629a4aa864d956{
+    margin-top: 150px;
+}
+.abouta2a629a4aa864d956 h2{
+    font-size: 40px;
+    color: var(--text-color);
+    margin-top: 40px
+}
+.abouta2a629a4aa864d956 .horizontal{
+    width:10%;
+    text-align:left;
+    margin-left:0;
+    height: 5px;
+    border-radius: 35px; 
+    background-color:#84CE60; 
+    border: none; 
+    margin-top: 20px
+}
+.abouta2a629a4aa864d956 .para{
+    color: #9DA3A3
+}
+/* #afurn(a2a629a4aa864d956) #css ends  */
