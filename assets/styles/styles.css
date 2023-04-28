@@ -249,3 +249,28 @@ p {
     color: #9DA3A3
 }
 /* #afur(a6d8c49d4d01666aa) #css ends  */
+
+/* #apne(a134c81d1789badbc) #css starts  */
+.abouta134c81d1789badbc{
+    margin-top: 150px;
+}
+.abouta134c81d1789badbc h2{
+    font-size: 40px;
+    color: var(--text-color);
+    margin-top: 40px
+}
+
+.abouta134c81d1789badbc .horizontal{
+    width:10%;
+    text-align:left;
+    margin-left:0;
+    height: 5px;
+    border-radius: 35px; 
+    background-color:#8F7CFF; 
+    border: none; 
+    margin-top: 20px
+}
+.abouta134c81d1789badbc .para{
+    color: #9DA3A3
+}
+/* #apne(a134c81d1789badbc) #css ends  */
