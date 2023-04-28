@@ -167,3 +167,29 @@ p {
     margin-left: -16px
 }
 /* #hagun(h855f44553e2f66e1) #css ends  */
+
+/* #angul(a6648229d877cb78a) #css starts  */
+.abouta6648229d877cb78a h2{
+    font-size: 40px;
+    color: white;
+    margin-top: 40px
+}
+
+.abouta6648229d877cb78a .Background{
+    background-color: #8F7CFF
+}
+.abouta6648229d877cb78a .horizontal{
+    width:10%;
+    text-align:left;
+    margin-left:0;
+    height: 5px;
+    border-radius: 35px; 
+    background-color:#BDB3FF; 
+    border: none; 
+    margin-top: 20px
+}
+.abouta6648229d877cb78a .para{
+   font-weight: 100;
+    color: #DCD5FF
+}
+/* #angul(a6648229d877cb78a) #css ends  */
