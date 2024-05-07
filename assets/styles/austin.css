@@ -52,7 +52,13 @@
     padding: var(--button-padding);
     background-color: var(--primary-Color);
 }
+.aboutp3dce575962b3c369 .jumbotron{
+    padding: var(--jumbotron-padding);
+}
 /*clientscca5p4g11jb4*/
+.clientscca5p4g11jb4{
+    padding: var(--section-padding);
+}
 .clientscca5p4g11jb4 .fdb-block{
     padding: 0px 0;
 } 
@@ -76,8 +82,11 @@
     display: none;
 }
 /*abouteb092de7c8df0610*/
+.abouteb092de7c8df0610  {
+    padding: var(--section-padding);
+}
 .abouteb092de7c8df0610 #AbOuTuS {
-    padding: 7rem;
+    padding: 0rem;
 }
 .abouteb092de7c8df0610 h2 {
     font-size: var(--heading-large);
@@ -86,6 +95,9 @@
     font-weight: 500;
 }
 /*aboutab8dfbbd4bed*/
+.aboutab8dfbbd4bed{
+    padding: var(--section-padding);
+}
 .aboutab8dfbbd4bed .description{
     font-size: var(--heading-large);
 }
@@ -101,7 +113,7 @@
 }
 /*servicecda4f61d9a1b5853*/
 .servicecda4f61d9a1b5853{
-    padding: 7rem;
+    padding: var(--section-padding);
 }
 .servicecda4f61d9a1b5853 .font-weight-bold {
     font-weight: var(--button-font-weight) !important;
@@ -121,6 +133,10 @@
     color: var(--main-Background-Color);
     margin: 16px;
 }
+/*productscb870d00581aabe8*/
+.productscb870d00581aabe8{
+    padding: var(--section-padding);
+}
 .productscb870d00581aabe8 .title {
     color: var(--secondary-Background-Color);
     font-size: var(--heading-medium);
@@ -131,7 +147,7 @@
 }
 /*serviceebfcf165e4ae5852*/
 .serviceebfcf165e4ae5852{
-    padding: 7rem;
+    padding: var(--section-padding);
 }
 .serviceebfcf165e4ae5852 h2 {
     font-size: var(--heading-large);
@@ -146,6 +162,9 @@
     margin-left: 16px;
 }
 /*bannerd1342044aebb0112*/
+.bannerd1342044aebb0112{
+    padding: var(--section-padding);
+}
 .bannerd1342044aebb0112 .bannerBG {
     background: var(--secondary-Background-Color);
 }
@@ -163,6 +182,9 @@
     margin-left: -20px;
 }
 /*teamtm1gfnkqj1t*/
+.teamtm1gfnkqj1t {
+    padding: var(--section-padding);
+}
 .teamtm1gfnkqj1t h2{
     font-size: var(--heading-large);
 }
@@ -174,6 +196,9 @@
 }
 .teamtm1gfnkqj1t .rounded{
     border-radius: var(--logo-border-radius) !important;
+}
+.teamtm1gfnkqj1t .fdb-block{
+    padding: 0rem 0;
 }
 /*footerb9fc05b1281e93c0*/
 .footerb9fc05b1281e93c03 .courses-link-list li a:hover {
