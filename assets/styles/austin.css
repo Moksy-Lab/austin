@@ -114,7 +114,7 @@
 .quickLinkq82b7ca311d27746a .btn {
     font-weight: var(--button-font-weight);
     border: 1px solid;
-    margin: 11px;
+    margin: 16px;
 }
 .quickLinkq82b7ca311d27746a .btn:hover{
     background-color: var(--success-Color);
@@ -164,7 +164,16 @@
 }
 /*teamtm1gfnkqj1t*/
 .teamtm1gfnkqj1t h2{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
+}
+.teamtm1gfnkqj1t h3 {
+    font-size: var(--heading-medium);
+}
+.teamtm1gfnkqj1t strong {
+    font-weight: 600;
+}
+.teamtm1gfnkqj1t .rounded{
+    border-radius: var(--logo-border-radius) !important;
 }
 /*footerb9fc05b1281e93c0*/
 .footerb9fc05b1281e93c03 .courses-link-list li a:hover {
@@ -176,4 +185,11 @@
 .footerb9fc05b1281e93c03 .news-letter-form input[type="submit"]{
     background-color:var(--warning-Color);
     color: var(--secondary-Background-Color);
+}
+.footerb9fc05b1281e93c03  h5 {
+    font-size: var(--heading-medium);
+}
+.footerb9fc05b1281e93c03 .footer-top{
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
