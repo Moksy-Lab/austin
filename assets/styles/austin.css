@@ -200,6 +200,12 @@
 .teamtm1gfnkqj1t .fdb-block{
     padding: 0rem 0;
 }
+.teamtm1gfnkqj1t h1{
+    font-size: var(--heading-large);
+}
+.teamtm1gfnkqj1t .mt-5{
+    margin-top: 1rem !important;
+}
 /*footerb9fc05b1281e93c0*/
 .footerb9fc05b1281e93c03 .courses-link-list li a:hover {
     color: var(--warning-Color);
